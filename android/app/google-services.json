@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "723003670550",
+    "project_id": "latery-core",
+    "storage_bucket": "latery-core.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723003670550:android:ef499cb1d4631313473537",
+        "android_client_info": {
+          "package_name": "com.example.latery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723003670550-behb53brle6hl3goop4a09ft9vse52nh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latery",
+            "certificate_hash": "19feee385f15b9d98e5747548731645247572387"
+          }
+        },
+        {
+          "client_id": "723003670550-bh38uhv1hfa3u3a3c647ubcjfvhah028.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9W4hYCCICmyTsPYUh6Cgwie5eQJ0UV6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723003670550-bh38uhv1hfa3u3a3c647ubcjfvhah028.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "723003670550-rsbu69deqged6im3c0c3g5g3iapsgl4m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.latery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
