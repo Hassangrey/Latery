@@ -1,5 +1,3 @@
-latery
-
 Latery is social media app created using Flutter framework for the frontend part, and Firebase for the backend.
 
 FEATURES: 
