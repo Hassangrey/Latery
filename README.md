@@ -14,7 +14,12 @@ A mod can also, asign other users to be mod in the topic community.
 A mod can delete posts other users posted if he thought they were inappropriate.
 
 (4) -- You can submit a new post in any community you are enrolled in, and there are 3 types of posts you can make
+
+
 Your post can contains only a title
+
 You can add a title AND a text body to your post.
+
 You can add a title AND an image to your post.
+
 You can add a title AND a link to your post.
